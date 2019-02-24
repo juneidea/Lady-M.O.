@@ -96,7 +96,9 @@ a:focus {
 .message {
 	color: var(--color-text);
 	padding: 1rem;
+	font-size: 1.5em;
 	position: fixed;
+	background: #bae6f1;
 	top: 0;
 	width: 100%;
 	z-index: 10000;
