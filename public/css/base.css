@@ -94,7 +94,7 @@ a:focus {
 }
 
 .message {
-	color: var(--color-text);
+	color: #aaa;
 	padding: 1rem;
 	font-size: 1.7em;
 	position: fixed;
