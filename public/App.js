@@ -132,9 +132,9 @@ particlesJS('snow_fall',
 
 );
 
-let audio = document.createElement('audio')
-let source = document.createElement('source')
-source.src = 'song.mp3'
-audio.appendChild(source)
-audio.loop = true
-audio.play()
+// let audio = document.createElement('audio')
+// let source = document.createElement('source')
+// source.src = 'song.mp3'
+// audio.appendChild(source)
+// // audio.loop = true
+// audio.play()
