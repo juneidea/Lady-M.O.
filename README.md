@@ -1,68 +1,34 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Fake 3D Image Effect with WebGL
 
-## Available Scripts
+An interactive "fake" 3D effect for images with plain WebGL.
 
-In the project directory, you can run:
+![Fake 3D Image Effect](https://tympanus.net/codrops/wp-content/uploads/2019/02/Fake3dEffect_featured.jpg)
 
-### `npm start`
+[Article on Codrops](https://tympanus.net/codrops/?p=38413)
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Demo](http://tympanus.net/Tutorials/fake3d/)
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## Credits
 
-### `npm test`
+*   [Gyronorm](https://github.com/dorukeker/gyronorm.js/) library by [Doruk Eker](http://dorukeker.com)
+*   Photo by [Cosmic Timetraveler](https://unsplash.com/photos/YK_8mABhrtc)
+*   Photo by [Chelsea Ferenando](https://unsplash.com/photos/WJRZNL7rDF8)
+*   Photo by [Rio Syhputra](https://unsplash.com/photos/JnOHvMgw_Jo)
+*   Phoyo by [Jonatan Pie](https://unsplash.com/photos/3l3RwQdHRHg)
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## License
+This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell it, redistribute, re-publish it, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used.
 
-### `npm run build`
+## Misc
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Follow akella: [Twitter](https://twitter.com/akella), [Instagram](http://instagram.com/akella_), [Facebook](https://facebook.com/akella), [GitHub](https://github.com/akella) 
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/), [Instagram](https://www.instagram.com/codropsss/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+[© Codrops 2018](http://www.codrops.com)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
